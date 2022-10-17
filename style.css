@@ -1,0 +1,120 @@
+body{
+    background-color: #6b6a6a;
+    color: #444444;
+    font-family: "Open Sans", Arial;
+    font-size: 17px;
+    margin: 0%;
+}
+
+nav{
+    margin: auto;
+    text-align: center;
+    width: 100%;
+}
+
+nav ul{
+    background-color: #363636;
+    padding: 0 0  0px;
+    list-style: none;
+    position:relative;
+    display: inline-table;
+    width: 100%;
+}
+
+nav ul li{
+    float: right;
+}
+nav ul li a{
+    display: block;
+    padding: 25px;
+    color: #fff;
+    text-decoration: none;
+}
+
+nav ul li a:hover{
+    background-color: #848383;
+}
+img{
+    border-radius: 100%;
+    position: relative;
+    object-position: center;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace ;
+    color: #f6f6f7;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace ;
+    color: #f6f6f7;
+}
+
+.section {
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+  }
+  
+  .section-small {
+    max-width: 490px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    text-align: center;
+  }
+  
+  .section-header {
+    color: #f6f6f7;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  p{
+    font-family: 'Courier New', Courier, monospace ;
+    color: #f6f6f7;
+  }
+  .section-header {
+    color: #f6f6f7;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  img { 
+    max-width: 100%;
+    max-height: 200px;
+  }
+  
+  .gallery {
+    display :flex;
+    justify-content: center;
+  }
+  
+  .images {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  
+  figure { margin: 0; }
+  figcaption { text-align: center; }
+  
+  figcaption span {
+    display: block;
+    color: #333333;
+    font-size: 15px;
+  }
+h6{
+    font-family: 'Courier New', Courier, monospace ;
+    color: #f6f6f7;
+}
+h5{
+    font-family: 'Courier New', Courier, monospace ;
+    color: #f6f6f7;
+}
+a{
+    color:blanchedalmond;
+}
+section{
+    text-align: center;
+}
